@@ -1,0 +1,27 @@
+{
+	"ambient_list": true,
+	"ambient_mp3_list": true,
+	"coach_list": true,
+	"commentary_list": true,
+	"doors_list": true,
+	"items_list": true,
+	"misc_list": true,
+	"music_list": true,
+	"mvm_list": true,
+	"passtime_list": true,
+	"physics_list": true,
+	"pl_hoodoo_list": true,
+	"plats_list": true,
+	"player_list": true,
+	"replay_list": true,
+	"ui_list": true,
+	"vo_list": true,
+	"weapons_list": true,
+	
+	"vo_nomvm_edit_list": false,
+	"vo_onlyannouncer_edit_list": false,
+	"vo_onlymercs_edit_list": false,
+	"screams_edit_list": false,
+	
+	"example_custom_list": false
+}

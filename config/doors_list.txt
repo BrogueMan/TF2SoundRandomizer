@@ -1,0 +1,3 @@
+doors\door_metal_rusty_move1.wav
+doors\generic_door_close.wav
+doors\generic_door_open.wav

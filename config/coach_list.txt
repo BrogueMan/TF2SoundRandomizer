@@ -1,0 +1,5 @@
+coach\coach_attack_here.wav
+coach\coach_defend_here.wav
+coach\coach_go_here.wav
+coach\coach_look_here.wav
+coach\coach_student_died.wav
